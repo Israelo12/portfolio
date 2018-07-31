@@ -1,0 +1,111 @@
+
+.wrapper {
+				 width: 495px;
+				 background: #ebebeb;
+				 margin: 0 auto;
+				 text-align: center;
+}
+
+.heading{
+	height:50px;
+	background: #777;
+	padding: 10px;
+	text-align: center;
+}
+
+	
+.tab-button {
+	background-color: #777;
+	float: center;
+	border: none;
+	outline: none;
+	cursor: pointer;
+	padding: 14px 16px;
+}
+
+
+tab button:hover {
+	background-color: #ddd;
+}
+
+
+tab button.active {
+	background-color: #ccc;
+
+}
+
+.navigation {
+	height: 5px;
+	background: #ebebeb;
+}
+
+.content {
+	background: #ebebeb;
+	width: 400px;
+	float: middle;
+
+}
+
+.sidebar{
+	width: 400px;
+	float: right;
+	background: #ebebeb;
+
+}
+
+body {
+	font-family: 'Arial'
+  font-size: 18px;
+  line-height: 32px;
+  color: #333;
+}
+
+div {
+	text-align: left;
+	wrapper 
+	width: 495px;
+	padding: 20px;
+	margin 0 auto;
+  }
+
+h1 {
+  margin-bottom: 45px;
+  font-size: 18px;
+  line-height: 45px;
+}
+
+p {
+  margin-bottom: 50px;
+  font-size: 18px;
+	line-height: 28px;
+	text-align: middle;
+}
+
+relative {
+  position: relative;
+  height: 200px;
+  padding: 20px;
+  margin-bottom: 20px;
+  text-align: center;
+  background: #eee;
+}
+
+fixed {
+  position: fixed;
+  right: 30px;
+  bottom: 0;
+  width: 250px;
+  padding: 20px;
+  text-align: center;
+	background: #999;
+}
+
+.footer{
+	clear: both;
+	background: #ebebeb;
+	height: 150px;
+	color: #777;
+	text-align: left;
+	padding: 15px;
+}
+
